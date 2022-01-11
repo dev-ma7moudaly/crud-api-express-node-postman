@@ -1,10 +1,10 @@
 #crud api
---node
---express
---postman
+- node
+- express
+- postman
 
 #Packages:
-    --express
-    --nodemon
-    --bodyParser
-    --uuid
+    - express
+    - nodemon
+    - bodyParser
+    - uuid
